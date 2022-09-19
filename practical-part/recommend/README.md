@@ -6,3 +6,7 @@ This is the solution we learned at professional school and during the preparatio
 
 - [XAMPP](https://www.apachefriends.org/de/index.html)
 - [MySQL - Workbench](https://www.mysql.com/products/workbench/)
+
+## Additional tools
+
+- [Visual Studio Code](https://code.visualstudio.com/)
