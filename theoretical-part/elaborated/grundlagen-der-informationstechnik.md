@@ -1,5 +1,13 @@
 # Grundlagen in der Informationstechnik
 
+- [Kenntnis des Zeichensatzes ASCII](#kenntnis-des-zeichensatzes-ascii)
+- [Kenntnis der Einheiten Bit, Byte](#kenntnis-der-einheiten-bit-byte)
+- [Kenntnis der Begriffe Gigabyte, Terabyte, Petabyte, Exabyte](#kenntnis-der-begriffe-gigabyte-terabyte-petabyte-exabyte)
+- [Kenntnis der Begriffe Gibibyte, Tebibyte, Pebibyte, Exbibyte](#kenntnis-der-begriffe-gibibyte-tebibyte-pebibyte-exbibyte)
+- [Kenntnis der gebräuchlichen Zahlensysteme in der IT](#kenntnis-der-gebruchlichen-zahlensysteme-in-der-it)
+- [Umwandlung zwischen Binär-, Dezimal- und Hexadezimalzahlen](#umwandlung-zwischen-binr--dezimal--und-hexadezimalzahlen)
+- [Kenntnis der Logik-Schaltungen (AND, OR, XOR, NOT) und deren Wahrheitstabellen](#kenntnis-der-logik-schaltungen-and-or-xor-not-und-deren-wahrheitstabellen)
+
 ## Kenntnis des Zeichensatzes ASCII
 
 ASCII steht für: **American Standard Code for Information Interchange**. Es handelt sich um eine 7-Bit Zeichenkodierung.
