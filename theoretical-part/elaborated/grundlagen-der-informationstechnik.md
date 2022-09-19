@@ -141,3 +141,63 @@ $$3+3+5+E+E+5+6=335EE58_{16}$$
 <br>
 
 ## Kenntnis der Logik-Schaltungen (AND, OR, XOR, NOT) und deren Wahrheitstabellen
+
+Ein Logikgatter, auch nur Gatter, ist eine Anordnung zur Realisierung einer booleschen Funktion, die binäre Eingangssignale zu einem binären Ausgangssignal verarbeitet.
+
+### AND
+
+$Y=A ∧ B$
+<br>
+$Y=A • B$
+
+![alt text](../../assets/logik-schaltungen/IEC_AND.svg "AND")
+
+|  A  |  B  |  Y  |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  0  |
+|  1  |  0  |  0  |
+|  1  |  1  |  1  |
+
+### OR
+
+$Y=A ∨ B$
+<br>
+$Y=A + B$
+
+![alt text](../../assets/logik-schaltungen/IEC_OR.svg "OR")
+
+|  A  |  B  |  Y  |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  1  |
+
+### XOR
+
+$Y=A ⊻ B$
+<br>
+$Y=A ⊕ B$
+
+![alt text](../../assets/logik-schaltungen/IEC_XOR.svg "XOR")
+
+|  A  |  B  |  Y  |
+| :-: | :-: | :-: |
+|  0  |  0  |  0  |
+|  0  |  1  |  1  |
+|  1  |  0  |  1  |
+|  1  |  1  |  0  |
+
+### NOT
+
+$Y=Ā$
+<br>
+$Y=¬A$
+
+![alt text](../../assets/logik-schaltungen/IEC_NOT.svg "NOT")
+
+|  A  |  Y  |
+| :-: | :-: |
+|  0  |  1  |
+|  1  |  0  |
