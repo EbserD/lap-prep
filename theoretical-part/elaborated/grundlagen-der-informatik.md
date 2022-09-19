@@ -1,6 +1,6 @@
 # Grundlagen in der Informationstechnik
 
-## Kenntnis des Zeichensatzes ASCII <hr style="border-bottom: 1px dotted #424949"/>
+## Kenntnis des Zeichensatzes ASCII
 
 ASCII steht für: **American Standard Code for Information Interchange**. Es handelt sich um eine 7-Bit Zeichenkodierung.
 
@@ -13,7 +13,7 @@ Viele umfangreichere Zeichenkodierungen (zb. ANSI) bauen auf ASCII auf.
 
 <br>
 
-## Kenntnis der Einheiten Bit, Byte <hr style="border-bottom: 1px dotted #424949"/>
+## Kenntnis der Einheiten Bit, Byte
 
 Das Bit ist im Computerumfeld die kleinste Informationseinheit und kann die Werte 0 oder 1 annehmen. Zur Darstellung mehrerer Zustände und Kodierung von Zahlen oder Buchstaben werden mehrere Bits zu einer Bitfolge wie dem Byte zusammengefasst.
 
@@ -21,7 +21,7 @@ Das Bit ist im Computerumfeld die kleinste Informationseinheit und kann die Wert
 
 <br>
 
-## Kenntnis der Begriffe Gigabyte, Terabyte, Petabyte, Exabyte <hr style="border-bottom: 1px dotted #424949"/>
+## Kenntnis der Begriffe Gigabyte, Terabyte, Petabyte, Exabyte
 
 Sind Einheiten für Datenmengen auf Basis des Faktors 1000.
 
@@ -39,7 +39,7 @@ Beispiel: 1 Kilobyte = 1000 Byte
 
 <br>
 
-## Kenntnis der Begriffe Gibibyte, Tebibyte, Pebibyte, Exbibyte <hr style="border-bottom: 1px dotted #424949"/>
+## Kenntnis der Begriffe Gibibyte, Tebibyte, Pebibyte, Exbibyte
 
 Sind Einheiten für Datenmengen auf Basis des Faktors 1024. Um sich von den anderen Einheiten mit dem Umrechnungsfaktor 1000 zu unterscheiden wird hier bei den Namen die Vorsilbe (kilo, mega, kilo usw.) mit der Silbe "bi", welche die binäre Bedeutung anzeigt, vermischt.
 
@@ -49,7 +49,7 @@ Beispiel: 1 Kilobyte = 1024 Byte
 
 <br>
 
-## Kenntnis der gebräuchlichen Zahlensysteme in der IT <hr style="border-bottom: 1px dotted #424949"/>
+## Kenntnis der gebräuchlichen Zahlensysteme in der IT
 
 | Name               | Basis |
 | :----------------- | :---: |
@@ -60,8 +60,8 @@ Beispiel: 1 Kilobyte = 1024 Byte
 
 <br>
 
-## Umwandlung zwischen Binär-, Dezimal- und Hexadezimalzahlen <hr style="border-bottom: 1px dotted #424949"/>
+## Umwandlung zwischen Binär-, Dezimal- und Hexadezimalzahlen
 
 <br>
 
-## Kenntnis der Logik-Schaltungen (AND, OR, XOR, NOT) und deren Wahrheitstabellen <hr style="border-bottom: 1px dotted #424949"/>
+## Kenntnis der Logik-Schaltungen (AND, OR, XOR, NOT) und deren Wahrheitstabellen
