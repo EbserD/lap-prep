@@ -1,5 +1,16 @@
 # Betriebssysteme und Software
 
+- [Fachbegriff Betriebssystem](#fachbegriff-betriebssystem)
+- [Kenntnis der am Markt führend verbreiteten Betriebssysteme](#kenntnis-der-am-markt-fhrend-verbreiteten-betriebssysteme)
+- [Kenntnisse über Desktop-Betriebssysteme](#kenntnisse-ber-desktop-betriebssysteme)
+- [Fachbegriff Firmware](#fachbegriff-firmware)
+- [Fachbegriffe Systemprogramm, Anwendungsprogramm](#fachbegriffe-systemprogramm-anwendungsprogramm)
+- [Fachbegriff Multitasking-Betriebssystem](#fachbegriff-multitasking-betriebssystem)
+- [Fachbegriffe Single-User-System, Multi-User-System](#fachbegriffe-single-user-system-multi-user-system)
+- [Kenntnis über die Powershell (inkl. einfacher Befehle)](#kenntnis-ber-die-powershell-inkl-einfacher-befehle)
+- [Kenntnisse über grafische Oberflächen unter Linux](#kenntnisse-ber-grafische-oberflchen-unter-linux)
+- [Fachbegriff Dateisystem](#fachbegriff-dateisystem)
+
 ## Fachbegriff Betriebssystem
 
 Ein Betriebssystem, auch OS (von englisch operating system) genannt, ist eine Zusammenstellung von Computerprogrammen, die die Systemressourcen eines Computers wie Arbeitsspeicher, Festplatten, Ein- und Ausgabegeräte verwaltet und diesen Anwendungsprogramme zur Verfügung stellt.
