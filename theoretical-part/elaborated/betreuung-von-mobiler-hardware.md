@@ -2,8 +2,8 @@
 
 - [Technische Merkmale von Smartphones](#technische-merkmale-von-smartphones)
 - [Technische Merkmale von Tablets](#technische-merkmale-von-tablets)
-- [Kenntnisse über Android](#kenntnisse-ber-android)
-- [Kenntnisse über IOS](#kenntnisse-ber-ios)
+- [Kenntnisse über Android](#kenntnisse-über-android)
+- [Kenntnisse über IOS](#kenntnisse-über-ios)
 - [Fachbegriff QR-Code](#fachbegriff-qr-code)
 - [Vor- und Nachteile von geschlossenen Systemen mit Betriebssystem und App-Store](#vor--und-nachteile-von-geschlossenen-systemen-mit-betriebssystem-und-app-store)
 
