@@ -1,0 +1,1 @@
+INSERT INTO `brand` (`code`, `name`) VALUES ('V', 'Volkswagen'), ('A', 'Audi'), ('S', 'Seat'), ('C', 'Skoda'), ('L', 'VW Nutzfahrzeuge');

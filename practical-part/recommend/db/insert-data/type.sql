@@ -1,0 +1,2 @@
+INSERT INTO `type` (`id`, `name`, `brand_code`) VALUES (NULL, 'Service Card', 'A'), (NULL, 'Service Card', 'C'), (NULL, 'Service Card', 'L'), (NULL, 'Service Card', 'S'), (NULL, 'Service Card', 'V');
+INSERT INTO `type` (`id`, `name`, `brand_code`) VALUES (NULL, 'New Card', 'A'), (NULL, 'New Card', 'C'), (NULL, 'New Card', 'L'), (NULL, 'New Card', 'S'), (NULL, 'New Card', 'V');
